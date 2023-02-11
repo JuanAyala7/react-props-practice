@@ -10,7 +10,7 @@
 
 <ul>The idea of props and passing them over when you create your custom components and then receiving them through the input called props and accessing each of those properties inside, in order to render a completely customized version of your component. This is why you would want to have different pieces of information in each of these reusable “card” components.</ul>
 
-<ul>What you can do now is create as many of these card components as needed with different pieces of information.</ul>
+<ul><em>What you can do now is create as many of these card components as needed with different pieces of information.</em></ul>
 
 <ul>You're using attributes from our HTML elements to use custom pieces of data to that particular element. And when we tap into an element using getElementById and we have a reference to it, then you can see it's almost like as if we have the input as an object and we're accessing each of its properties like .placeholder or .value.</ul>
 
